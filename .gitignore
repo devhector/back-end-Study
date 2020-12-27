@@ -1,2 +1,3 @@
-exportExample/.gitignore
+exportExample/
 exportExample/yarn.lock
+exportExample/node_modules
